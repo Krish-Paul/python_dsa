@@ -31,3 +31,10 @@ class SLL:
             temp.next=n
         else:
             self.start=n
+    def search(self,data):
+        temp=self.start
+        while temp is not None:
+            if temp.item==data:
+                return temp
+            temp=temp.next
+        return None
