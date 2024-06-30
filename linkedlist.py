@@ -7,7 +7,7 @@
 #In class SLL, define a method insert_after) to insert a new node after a given node of the list.
 #In class SLL, define a method to print ali the elements of the list.
 #In class SLL, implement iterator for SLL to access all the elements of the list in a sequence.
-# In class SLL, define a method delete _first) to delete first element from the list.
+# In class SLL, define a method delete _first) to delete first element from the list
 
 
 class Node:
