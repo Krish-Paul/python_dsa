@@ -24,4 +24,4 @@ class DLL:
         n=Node(None,data,self.start)
         if not self.is_empty():
             self.start.prev=n
-        self.start=
+        self.start=n
